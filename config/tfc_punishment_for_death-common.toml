@@ -30,13 +30,13 @@
 	effect_amplifier = 0
 	#Cooldown in minutes before corpse interaction (0-60)
 	#Range: 0 ~ 60
-	corpse_cooldown = 30
+	corpse_cooldown = 10
 	#Thirst effect duration in seconds (0-600)
 	#Range: 0 ~ 600
-	thirst_duration = 30
+	thirst_duration = 0
 	#Exhaustion effect duration in seconds (0-600)
 	#Range: 0 ~ 600
-	exhausted_duration = 30
+	exhausted_duration = 0
 	#Pinned effect duration in seconds (0-600)
 	#Range: 0 ~ 600
 	pinned_duration = 0
@@ -45,7 +45,7 @@
 	blindness_duration = 0
 	#Nausea effect duration in seconds (0-600)
 	#Range: 0 ~ 600
-	confusion_duration = 10
+	confusion_duration = 0
 	#Hunger effect duration in seconds (0-600)
 	#Range: 0 ~ 600
 	hunger_duration = 0
